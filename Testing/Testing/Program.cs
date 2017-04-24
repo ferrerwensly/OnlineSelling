@@ -9,6 +9,8 @@ namespace Testing
     {
         static void Main(string[] args)
         {
+            //lolooll
+            Console.Write("gjoith");
             int a = 1 + 1;
             Console.Write("HELLO {0}", a);
             Console.Read();
